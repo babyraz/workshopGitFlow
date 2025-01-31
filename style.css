@@ -50,6 +50,8 @@ h3 {
     margin: 0 auto;
 }
 
+09-basicStyling
+
 /* Main Section */
 .main-section {
     background-color: var(--background-grey);
@@ -120,5 +122,3 @@ h3 {
     cursor: pointer;
     font-size: 1.5rem;
 }
-
-
